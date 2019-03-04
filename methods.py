@@ -10,8 +10,7 @@ def num_list_with_arg(max):
     return num_list
 
 # So if the number 5 is passed in, num_list_with_arg should return [1, 2, 3, 4]
-def num_list = list(range(5, 5 -1))
-    return num_list
+
 
 # #2: Modify the has_ruby_exp method below so that it returns a SORTED list of
 # all instructors who have Ruby experience (i.e. where "ruby" == True)
